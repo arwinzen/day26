@@ -74,6 +74,7 @@
         echo "<br>";
         echo "The sum of odd numbers between 30 and 50 is ". "$sum_odd".".<br>";
         echo "<br>";
+        
         // Question 4 
         // Assign the string "Hello there my name is Kevin" to a variable. Read each string and replace spaces with %. Do a count to get the number of % replaced in this statement.
         echo "<h2>Question 4</h2>\n";
